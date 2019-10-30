@@ -4,16 +4,16 @@
 ![iphone 11](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWSC3PAxXouiLQc304WHn3PgJzUpNXjQHG-tmhEyV-KVwVtSX_)
 # Generations
 ![iphones picture](https://cdn.iphoneincanada.ca/wp-content/uploads/2019/10/iphone-comparison.png)
-1### iphone 6 and 6 Plus
-2 ### iphone 6s and 6s Plus
-3 ### iphone SE
-4 ### iphone 7 and 7 Plus
-5 ### iphone 8 and 8 Plus
-6 ### iphone X
-7 ### iphone XS and XS Max
-8 ### iphone XR
-9 ### iphone 11
-10 ### iphone 11 Pro and 11 Pro Max
+1. ### iphone 6 and 6 Plus
+2. ### iphone 6s and 6s Plus
+3. ### iphone SE
+4. ### iphone 7 and 7 Plus
+5. ### iphone 8 and 8 Plus
+6. ### iphone X
+7. ### iphone XS and XS Max
+8. ### iphone XR
+9. ### iphone 11
+10. ### iphone 11 Pro and 11 Pro Max
 # Software
 ![ios 13](https://cdn.macrumors.com/article-new/2019/06/test-iOS-13-800x465.jpg)
 # Costs
