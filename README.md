@@ -4,7 +4,7 @@
 ![iphone 11](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWSC3PAxXouiLQc304WHn3PgJzUpNXjQHG-tmhEyV-KVwVtSX_)
 # Generations
 ![iphones picture](https://cdn.iphoneincanada.ca/wp-content/uploads/2019/10/iphone-comparison.png)
-1 ### iphone 6 and 6 Plus
+1### iphone 6 and 6 Plus
 2 ### iphone 6s and 6s Plus
 3 ### iphone SE
 4 ### iphone 7 and 7 Plus
