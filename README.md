@@ -29,11 +29,11 @@ These are some of the generations starting from the 6 but to look for more you c
 # Software
 ![ios 13](https://cdn.macrumors.com/article-new/2019/06/test-iOS-13-800x465.jpg)
 
-The *ios* is an operating system that was developed by apple and comes standard on every iphone. they started out in 2007 as well and now is on it's 13th iteration. 
+**ios** is an operating system that was developed by apple and comes standard on every iphone. they started out in 2007 as well and now is on it's 13th iteration. this software can be updated on your phone as soon as the updates come out. 
 
 
 # Costs
-The cost of an iphone can be very expensive being about 1500 dollars for the new iphone 11 that just came out. As the new iphones keep coming out the older models start to decrease in price for they start to become outdated.
+The cost of an iphone can be very **expensive** being about *1500 dollars* for the new iphone 11 that just came out. As the new iphones keep coming out the older models start to decrease in price for they start to become outdated.
 
 
 # Other devices
@@ -51,6 +51,7 @@ The cost of an iphone can be very expensive being about 1500 dollars for the new
 * watch bands
 * fast chargers
 * charger cables
+
 For other Apple products, devices, and accessories check out [Apple](https://www.apple.com/?afid=p238%7Csb7HKqGWq-dc_mtid_1870765e38482_pcrid_392795423418_pgrid_80467373236_&cid=aos-us-kwgo-brand--slid---product-).
 
 # Future Development
