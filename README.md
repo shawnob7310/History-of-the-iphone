@@ -1,9 +1,13 @@
 # History-of-the-iphone
-![Steve Jobs](https://i.dailymail.co.uk/i/pix/2011/10/06/article-2045852-0E3FF67400000578-745_634x381.jpg)
+The iphone has been around almost as long as I have been alive and my project is about all the history behind the Apple logo we have all become very familiar with today. 
+> Design is not just what it looks like and feels like. Design is how it works.
+> -Steve Jobs 
 # About the iphone
 ![iphone 11](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWSC3PAxXouiLQc304WHn3PgJzUpNXjQHG-tmhEyV-KVwVtSX_)
+The iphone started way back in January 2007 and now they are on the 11th iteration of the phone called the iphone 11, 11 pro, and 11 pro max. **Steve Jobs** was the co-founder, chief executive and chairman of Apple. The type of popularity and sales Apple produced were unmatched and are still standing strong today. 
 # Generations
 ![iphones picture](https://cdn.iphoneincanada.ca/wp-content/uploads/2019/10/iphone-comparison.png)
+These are some of the generations starting from the 6 but to look for more you can go to [www.iphonelife.com](https://www.iphonelife.com/content/evolution-iphone-every-model-2007-2016).
 1. ### iphone 6 and 6 Plus
 2. ### iphone 6s and 6s Plus
 3. ### iphone SE
